@@ -10,7 +10,62 @@
               "publisher": "Bloomsbury",
               "cost": 1299,
               "borrowed": false
-        }
+        },
+        {
+          "id":2,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+                "genre": "fiction",
+                "edition": "2021",
+                "publisher": "Bloomsbury",
+                "cost": 1299,
+                "borrowed": false
+          },
+          {
+            "id":3,
+              "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+              "book_name": "Five Point Someone",
+              "author": "Chetan Bhagat",
+                  "genre": "Study",
+                  "edition": "20005",
+                  "publisher": "Aajad",
+                  "cost": 199,
+                  "borrowed": false
+            },
+            {
+              "id":4,
+                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                "book_name": "Avenger's",
+                "author": "J. K. Rowling",
+                    "genre": "fiction",
+                    "edition": "2012",
+                    "publisher": "Hollywood",
+                    "cost": 1000,
+                    "borrowed": false
+              },
+              {
+                "id":5,
+                  "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                  "book_name": "Rich Dad Poor Dad",
+                  "author": "J. K. smith",
+                      "genre": "Bussiness",
+                      "edition": "2001",
+                      "publisher": "dkfjd",
+                      "cost": 499,
+                      "borrowed": false
+                },
+                {
+                  "id":6,
+                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                    "book_name": "The wings of fire",
+                    "author": "Dr A P J Abdul Kalam",
+                        "genre": "story",
+                        "edition": "2004",
+                        "publisher": "Arihant",
+                        "cost": 299,
+                        "borrowed": false
+                  }
       ],
       "borrowbook":[]
        
