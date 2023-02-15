@@ -67,7 +67,62 @@
                         "borrowed": false
                   }
       ],
-      "borrowbook":[]
+      "borrowbook":[
+        {
+          "id":1,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+                "genre": "fiction",
+                "edition": "2021",
+                "publisher": "Bloomsbury",
+                "cost": 1299,
+                "quantity": 1
+          },
+          {
+            "id":2,
+              "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+              "book_name": "Harry Potter and the Philosopher's Stone",
+              "author": "J. K. Rowling",
+                  "genre": "fiction",
+                  "edition": "2021",
+                  "publisher": "Bloomsbury",
+                  "cost": 1299,
+                  "quantity": 1
+            },
+            {
+              "id":3,
+                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                "book_name": "Five Point Someone",
+                "author": "Chetan Bhagat",
+                    "genre": "Study",
+                    "edition": "20005",
+                    "publisher": "Aajad",
+                    "cost": 199,
+                    "quantity": 1
+              },
+              {
+                "id":4,
+                  "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                  "book_name": "Avenger's",
+                  "author": "J. K. Rowling",
+                      "genre": "fiction",
+                      "edition": "2012",
+                      "publisher": "Hollywood",
+                      "cost": 1000,
+                      "quantity": 1
+                },
+                {
+                  "id":5,
+                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                    "book_name": "Rich Dad Poor Dad",
+                    "author": "J. K. smith",
+                        "publisher": "dkfjd",
+                        "cost": 499,
+                        "quantity": 1
+                  }
+                 
+      ]
        
   
     
